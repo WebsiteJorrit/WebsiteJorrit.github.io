@@ -1,2 +1,3 @@
 - Favicon
 - Apple-touch-icon
+- hero-bg image and profile-image
