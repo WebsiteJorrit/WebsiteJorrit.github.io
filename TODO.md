@@ -6,3 +6,4 @@
 - Laat de message form werken
 - Koop licentie van de theme, verwijder hierna footer
 - Getuigenissen
+- Assign correct filters to the portfolio items
