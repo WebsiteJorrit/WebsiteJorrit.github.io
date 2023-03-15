@@ -3,3 +3,6 @@
 - hero-bg image and profile-image
 - In about section, add more info at the top
 - Change mailadresses to website mail
+- Laat de message form werken
+- Koop licentie van de theme, verwijder hierna footer
+- Getuigenissen
