@@ -1,3 +1,5 @@
 - Favicon
 - Apple-touch-icon
 - hero-bg image and profile-image
+- In about section, add more info at the top
+- Change mailadresses to website mail
