@@ -299,9 +299,14 @@ window.addEventListener("load", function () {
     };
 
     return fetch(url, opts)
-      .then(alert("Je bericht is verzonden!"))
+      .then(goneRight())
       .catch((e) => {
         alert("Error:", e);
       });
+  }
+
+  function goneRight() {
+    const form = document.querySelector("form");
+    alert("Je bericht is verzonden!");
   }
 });
