@@ -307,6 +307,7 @@ window.addEventListener("load", function () {
 
   function goneRight() {
     const form = document.querySelector("form");
+    form.reset();
     alert("Je bericht is verzonden!");
   }
 });
