@@ -278,7 +278,6 @@ window.addEventListener("load", function () {
   if (form) {
     form.addEventListener("submit", function (event) {
       event.preventDefault();
-      ChangeInputs();
       const form = document.querySelector("form");
       sendData();
     });
@@ -300,7 +299,7 @@ window.addEventListener("load", function () {
     };
 
     return fetch(url, opts)
-      .then(alert("Uw offerte is aangevraagd."))
+      .then(alert("Je bericht is verzonden!"))
       .catch((e) => {
         alert("Error:", e);
       });
