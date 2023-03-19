@@ -1,4 +1,1 @@
-- hero-bg image
 - Koop licentie van de theme, verwijder hierna footer
-- 404 page
-- Sitemap

@@ -1114,3 +1114,13 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+#notfound {
+  margin-left: 260px;
+}
+
+@media (max-width: 768px) {
+  #notfound {
+    margin-left: 0px;
+  }
+}
