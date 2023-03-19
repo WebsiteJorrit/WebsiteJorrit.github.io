@@ -1,7 +1,4 @@
-- Favicon
-- Apple-touch-icon
-- hero-bg image and profile-image
-- In about section, add more info at the top
+- hero-bg image
 - Koop licentie van de theme, verwijder hierna footer
 - Getuigenissen
 - 404 page
