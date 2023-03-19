@@ -1,5 +1,4 @@
 - hero-bg image
 - Koop licentie van de theme, verwijder hierna footer
-- Getuigenissen
 - 404 page
 - Sitemap
